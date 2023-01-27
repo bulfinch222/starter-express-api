@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "vk-io": "^4.8.1"
+  },
+  "name": "vk-io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "/c"
+  },
+  "keywords": [
+    "C"
+  ],
+  "author": "C&",
+  "license": "ISC",
+  "description": ""
+}
