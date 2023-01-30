@@ -1,6 +1,6 @@
 const { VK } = require('vk-io');  
 const vk = new VK({
-token: 'vk1.a.5WQNVBapNRgr1fzlxUZL8Bs3pTlRsWD5fNGftx0yRriMyDPlI8FRUGMadl4y343qdSLUFWx0DbyYcrOcs7kyZuoNIVTqWu5lURzH2DVujaN2Z0hiUoUppMjO4XDapvu8BcTj2K9dmmWtae-qLji_iyuz4Iq-jzstMEwIFZ2BpbfUY3Pr5X9BvqOJXUdpwSEZJbYYnmOxtJ3vC5gMNU40TQ'
+token: 'vk1.a._xoGkO-5Cjl7gquZM7Gyo71aIQ9ELMbT7YfJBOu0Cnaa0Sc2aUijLHMqCgslLO2jyrfp-8ntpWfzwF6rGf7LrQTuS1NVFTrO8T4NIyJR64zNpvoHxrucB2UgD8Pm-TA03xAaxk4qLlyYvVpiTAFEx6jRWAmL_Uc9SbyJ1YU-KgxtzbZOqiGdCI-Eqv_H31pjsmdM11SeDcFfazVzE-mgUg'
 });
 console.log("By Tripl_color , awoken.xyz".info);
 function startamuu() {
